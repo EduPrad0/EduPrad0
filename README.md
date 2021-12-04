@@ -7,7 +7,7 @@
 - 👦 18 anos
 - ⚛ Tecnologias Java | JavaScript
 
-![Snake animation](https://github.com/edu.prad0/edu.prad0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/edu.prad0/EduPrad0/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/EduPrad0">
