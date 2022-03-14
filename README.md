@@ -1,8 +1,8 @@
 ### welcome 👋
 ## Eduardo Do Prado
 
-- 🔭 Trabalhando como Desenvolvedor FullStack Jr. | NodeJs
-- 🌱 Atualmente estou aprendendo React Native | Java 
+- 🔭 Trabalhando como Desenvolvedor FullStack | NodeJs
+- 🌱 Atualmente estou aprendendo Java 
 - 💻 Ubunto | KdeNeon
 - 👦 18 anos
 - ⚛ Tecnologias Java | JavaScript
@@ -17,7 +17,6 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
