@@ -4,7 +4,7 @@
 - 🔭 Trabalhando como Desenvolvedor FullStack | NodeJs
 - 🌱 Atualmente estou aprendendo Java 
 - 💻 Mac | Ubunto | KdeNeon
-- 👦 18 anos
+- 👦 19 anos
 - ⚛ Tecnologias Java | JavaScript
 
 <div style="display: inline_block; margin:5px!important;"><br>
