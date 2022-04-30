@@ -33,7 +33,7 @@
 
 <div style="display:flex;align-items:center;justify-content:center;">
 <a href="https://www.instagram.com/edu.prad0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/d-prado-eduardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/eduardo-do-prado-1a411021a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
 ![Snake animation](https://github.com/EduPrad0/EduPrad0/blob/output/github-contribution-grid-snake.svg)
