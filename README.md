@@ -2,9 +2,9 @@
 ## Eduardo Do Prado
 
 - 🔭 Trabalhando como Desenvolvedor FullStack | NodeJs
-- 🌱 Atualmente estou aprendendo Java 
+- 🌱 Atualmente estou aprendendo Python
 - 💻 Mac | Ubuntu | KdeNeon
-- 👦 19 anos
+- 👦 20 anos
 - ⚛ Tecnologias Java | JavaScript
 
 <div style="display: inline_block; margin:5px!important;"><br>
